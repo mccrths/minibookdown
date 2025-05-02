@@ -2,3 +2,7 @@ create-your-open-textbook
 introduction
 questionable-decisions
 potential
+chapter-one-away-from-google-docs
+consistency
+tables
+formatting
