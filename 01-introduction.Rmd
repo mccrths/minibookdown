@@ -1,0 +1,11 @@
+# Introduction
+
+This is an introduction to the Mini Bookdown Template!
+
+## Questionable Decisions
+
+Did you know that trying to manage tutorials and assignments in a Git/GitHub class is very challenging if you've never done anything coding related before? Apparently yes! Who could have predicted that.
+
+## Potential
+
+Seems like it might still be useful for documentation if we're trying to get away from Google Docs.
