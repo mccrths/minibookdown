@@ -1,0 +1,15 @@
+# Chapter One: Away from Google Docs
+
+The problem with Google Docs is that some people just can't be trusted with a rich text editor.
+
+## Consistency
+
+In documentation, one should really use a single font.
+
+## Tables
+
+Almost as poor form as iFrames are to modern HTML.
+
+## Formatting
+
+When different people prefer to emphasize with **bold**, *italics*, or ++underlining++, it gets messy.
