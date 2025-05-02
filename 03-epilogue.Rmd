@@ -1,0 +1,3 @@
+# Epilogue
+
+In conclusion, using a text editor is preferred to keep folks from getting too fancy.
